@@ -1,0 +1,10 @@
+TickerTracker/__pycache__/__init__.cpython-39.pyc
+TickerTracker/__pycache__/admin.cpython-39.pyc
+TickerTracker/__pycache__/apps.cpython-39.pyc
+TickerTracker/__pycache__/models.cpython-39.pyc
+TickerTracker/__pycache__/urls.cpython-39.pyc
+TickerTracker/__pycache__/views.cpython-39.pyc
+TickerTracker/migrations/__pycache__/__init__.cpython-39.pyc
+TickerTracker/migrations/__pycache__/0001_initial.cpython-39.pyc
+TickerTracker/migrations/__pycache__/0002_settings.cpython-39.pyc
+TickerTracker/migrations/__pycache__/0003_auto_20201228_1702.cpython-39.pyc
